@@ -30,6 +30,9 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
   - 🦀 SRS-based kanji and vocabulary learning platform.
 - [Satori Reader](https://www.satorireader.com/)
   - 📖 Graded reading material with audio and vocab support.
+- [Hiragana Chart](https://hiragana-chart.com)
+  - 🔊 Free, no-login hiragana and katakana charts with romaji, tap-to-hear audio and animated stroke order.
+  - 📝 Printable tables, a look-alike character guide, a 4-level kana quiz with wrong-answer review, and a kanji translator with handwriting lookup.
 
 ## 🎧 Immersion
 
